@@ -11,6 +11,7 @@ public class Activator extends AbstractUIPlugin {
     public static final String EXTENSION_POINT_ID_THEME = PLUGIN_ID + ".theme";
 
     private static Activator plugin;
+    //first_commit
 
     /** Creates a new activator. */
     public Activator() {

@@ -10,6 +10,7 @@ import com.github.eclipsecolortheme.Color;
 
 public class ColorTest {
     private Color color;
+    //socind commit
 
     @Before
     public void setUp() {
